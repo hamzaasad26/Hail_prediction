@@ -1,3 +1,4 @@
+#Hail prediction
 ### Hail Prediction Project Report
 
 **Scope**: Desktop prototype for near-real-time hail threat visualization around Islamabad using Meteosat-9 imagery. Includes GUI, periodic data retrieval, synthetic fallback, feature engineering, probabilistic hail estimation, and map rendering.
